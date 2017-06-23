@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Blog sobre an·lisis de datos o exploraciÛn de informaciÛn que est· por la web.
+Blog sobre an√°lisis de datos o exploraci√≥n de informaci√≥n que est√° por la web.
 
 ### More Information
 
-En mi perfil de linkedin est· m·s informaciÛn profesional de lo que puedo contar. Curioso de que hacer con datos y como transformarlos en informaciÛn.
+En mi perfil de linkedin est√° m√°s informaci√≥n profesional de lo que puedo contar. Curioso de que hacer con datos y como transformarlos en informaci√≥n.
 
 ### Contact me
 
