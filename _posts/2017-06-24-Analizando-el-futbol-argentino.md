@@ -43,7 +43,7 @@ muy pocos cambios del tipo defensivos.
 
 ![alt text](/images/grafico5.png)
 
-![alt text](/images/grafico6.png)
+![alt text](/images/grafico6_pca2.png)
 
 Se puede ver cómo en cada cuadrante se visualizan las características más destacadas de cada posición. En el cuadrante superior izquierdo se observan
 las características que más se ven en defensores. En el inferior izquierdo se ven las características de los arqueros, las atajadas.
