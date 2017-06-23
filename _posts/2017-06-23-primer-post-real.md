@@ -24,6 +24,12 @@ Visualicemos con PCA los datos:
 </div>
 
 
+<div class="video-container">
+    <iframe src="http://rstudio-pubs-static.s3.amazonaws.com/237786_0a4ba2e701bc4c7b9feec013590c84d6.html" height="720" width="640" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
