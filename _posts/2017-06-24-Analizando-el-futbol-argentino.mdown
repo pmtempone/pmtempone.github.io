@@ -1,0 +1,91 @@
+---
+layout: post
+title: Analizando el fútbol argentino
+---
+
+![alt text](/images/tapa_informe.jpg)
+
+Recientemente estuve realizando para una materia de la maestría en datamining un análisis de un set de datos de fútbol (provisto por [DataFactory](http://www.datafactory.la/) con fines académicos), más precisamente de la primera división del fútbol argentino durante el período 2013–2016. Se aplicaron técnicas de [clustering](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_grupos), [PCA](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_componentes_principales) y visualizaciones.
+
+A continuación pongo algunos de los análisis que se realizaron:
+
+## Foco en los jugadores
+
+**Exploración de los datos sobre los jugadores**
+
+Se analizan las características de 1353 jugadores para visualizar patrones.
+
+![alt text](/images/grafico1.png)
+
+Se puede observar que hay un grupo que tiene niveles más altos de atajadas, lo que identifica al grupo correspondiente a los arqueros.
+Para poder identificar a futuro como ponderar a los jugadores suplentes en el rendimiento de los equipos, se generaron algunas visualizaciones para entender su participación en minutos jugados de titulares y suplentes.
+
+![Minutos jugados por titularidad](/images/grafico2.png)
+
+![Minutos jugados por titularidad](/images/grafico3.png)
+
+No es lo mismo ponderar a todos los jugadores suplentes, por eso se analiza la participación de ellos según su posición.
+Para los fines de este trabajo se reemplazarán las variables originales por una proporción de los minutos disputados en cada partidos, de esta manera se igualan los valores de participación de cada jugador por cada minuto disputado.
+
+![Rol del jugador por titularidad](/images/grafico4.png)
+
+Acá se empieza a ver datos interesantes, los entrenadores utilizan como suplentes a los delanteros en una proporción grande a los que son titulares.
+Es decir, los delanteros suplentes tienen más posibilidades de ingresar a un partido que los defensores. Esto plantea también que los técnicos realizan
+muy pocos cambios del tipo defensivos.
+
+**PCA sobre los jugadores**
+
+![alt text](/images/grafico5.png)
+
+![alt text](/images/grafico6.png)
+
+
+
+
+**Introducción**
+
+Todos los años se habla de los informes de Gartner y Forrester, las empresas lo utilizan como campaña de marketing. Pero todos nos preguntamos cuando lo vemos, como es que está en esa posición, ellos lo explican para que se entienda su metodología.
+
+A raíz de esto se me pidió armar una presentación comparando las herramientas para un cliente, muchos documentos que tenían opiniones donde no encontraba un sustento siendo una persona que mira muchos los datos.
+
+Pero para buscar otra visión se me ocurrió ver los datos que los especialistas en esos informes mencionan y como se pueden ubicar de otra manera las distintas herramientas de BI, con el foco en las que son para explotación de la información.
+
+Lo que se busca es desmitificar cuando se habla de que hacen analytics herramientas que tienen como fuerte las visualizaciones en realidad y como esas herramientas se encuentran cercanas entre si.
+
+
+Forrester
+
+Visualicemos con [PCA](https://es.wikipedia.org/wiki/Análisis_de_componentes_principales) los datos:
+
+![alt text](/images/pca_analytics.png)
+
+Lo que vemos cuando miramos Microstrategy, Qlikview y Tableau es que se destacan en lo siguiente:
+
+* Visualizaciones Avanzadas
+* Autoservicio del usuario final — feedback del cliente
+* Visión del cliente corporativo acerca del producto
+* Visualizaciones Avanzadas — feedback de clientes
+* BI Ágil — feedback de clientes
+
+**Gartner — Casos de Uso**
+
+Ahora se pasa a ver Gartner, el generador del “Cuadrante Mágico” y genero un gráfico para visualizar mejor esas variables y cada una de las herramientas.
+
+Las variables son las siguientes:
+
+* Descentralización
+* Centralización
+* Gobierno de datos
+* OEM/Embedded BI
+* Despliegue Extranet
+
+![alt text](/images/pca_analytics_02.png)
+
+
+**Opiniones**
+
+¿ Si tenemos Tableau por qué migrar a Microstrategy o viceversa? (por poner un ejemplo), los datos parecieran indicar que si se busca tener un mejor gobierno de los datos o su centralización pareciera mejor ir por herramientas como Microstrategy. Si lo que buscamos es darle más poder a los usuarios Tableau pareciera ser una mejor opción. Esto igualmente basado en datos del 2016, cada empresa está sacando nuevas funcionalidades orientadas al self service. Pero algo que es claro es que, si se tiene montado toda una infraestructura en una lo mejor es potenciarla antes de pensar en un cambio total por algo que quizás, no nos otorga un cambio tan diferencial como se vende.
+
+Para ver las tablas utilizadas ver en: <http://rpubs.com/pmtempone/Analytics_in_Analytics>
+
+
