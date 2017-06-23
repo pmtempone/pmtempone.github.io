@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analytics en Analytics!
+title: Analytics en Analytics
 ---
 
 **Introducción**
