@@ -1,7 +1,13 @@
 ---
 layout: post
 title: Analizando el fútbol argentino
+date:   2017-06-23 19:16:00 -0300
+categories: futbol, pca, clustering, analytics
+excerpt:
+         <h3>Analizando el fútbol argentino</h3>
+         <p>A continaución el desarrollo</p>
 ---
+
 
 ![alt text](/images/tapa_informe.jpg)
 
