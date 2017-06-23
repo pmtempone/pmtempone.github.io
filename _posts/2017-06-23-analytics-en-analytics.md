@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Analytics en Analytics
+categories: pca, BI, analytics
+excerpt:
+         <h3>Analizando las herramientas que visualizan datos</h3>
+         <p>Forrester y Gartner con otra mirada</p>
+
 ---
 
 **Introducción**
