@@ -20,18 +20,33 @@ Visualicemos con [PCA](https://es.wikipedia.org/wiki/Análisis_de_componentes_pr
 
 ![alt text](/images/pca_analytics.png)
 
-<div class="video-container">
-    <iframe src="https://public.tableau.com/views/BicisBA2016/Dashboard2?:showVizHome=no&:embed=true" height="720" width="640" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>
+Lo que vemos cuando miramos Microstrategy, Qlikview y Tableau es que se destacan en lo siguiente:
+
+* Visualizaciones Avanzadas
+* Autoservicio del usuario final — feedback del cliente
+* Visión del cliente corporativo acerca del producto
+* Visualizaciones Avanzadas — feedback de clientes
+* BI Ágil — feedback de clientes
+
+**Gartner — Casos de Uso**
+
+Ahora se pasa a ver Gartner, el generador del “Cuadrante Mágico” y genero un gráfico para visualizar mejor esas variables y cada una de las herramientas.
+
+Las variables son las siguientes:
+
+* Descentralización
+* Centralización
+* Gobierno de datos
+* OEM/Embedded BI
+* Despliegue Extranet
+
+![alt text](/images/pca_analytics_02.png)
 
 
-<div class="video-container">
-    <iframe src="http://rstudio-pubs-static.s3.amazonaws.com/237786_0a4ba2e701bc4c7b9feec013590c84d6.html" height="720" width="640" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>
+**Opiniones**
+
+¿ Si tenemos Tableau por qué migrar a Microstrategy o viceversa? (por poner un ejemplo), los datos parecieran indicar que si se busca tener un mejor gobierno de los datos o su centralización pareciera mejor ir por herramientas como Microstrategy. Si lo que buscamos es darle más poder a los usuarios Tableau pareciera ser una mejor opción. Esto igualmente basado en datos del 2016, cada empresa está sacando nuevas funcionalidades orientadas al self service. Pero algo que es claro es que, si se tiene montado toda una infraestructura en una lo mejor es potenciarla antes de pensar en un cambio total por algo que quizás, no nos otorga un cambio tan diferencial como se vende.
+
+Para ver las tablas utilizadas ver en: http://rpubs.com/pmtempone/Analytics_in_Analytics
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
