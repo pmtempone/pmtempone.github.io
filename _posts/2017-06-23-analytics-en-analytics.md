@@ -47,6 +47,6 @@ Las variables son las siguientes:
 
 ¿ Si tenemos Tableau por qué migrar a Microstrategy o viceversa? (por poner un ejemplo), los datos parecieran indicar que si se busca tener un mejor gobierno de los datos o su centralización pareciera mejor ir por herramientas como Microstrategy. Si lo que buscamos es darle más poder a los usuarios Tableau pareciera ser una mejor opción. Esto igualmente basado en datos del 2016, cada empresa está sacando nuevas funcionalidades orientadas al self service. Pero algo que es claro es que, si se tiene montado toda una infraestructura en una lo mejor es potenciarla antes de pensar en un cambio total por algo que quizás, no nos otorga un cambio tan diferencial como se vende.
 
-Para ver las tablas utilizadas ver en: http://rpubs.com/pmtempone/Analytics_in_Analytics
+Para ver las tablas utilizadas ver en: <http://rpubs.com/pmtempone/Analytics_in_Analytics>
 
 
