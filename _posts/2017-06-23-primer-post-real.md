@@ -3,7 +3,7 @@ layout: post
 title: Prueba posteo 2!
 ---
 
-Introducción
+##Introducción
 
 Todos los años se habla de los informes de Gartner y Forrester, las empresas lo utilizan como campaña de marketing. Pero todos nos preguntamos cuando lo vemos, como es que está en esa posición, ellos lo explican para que se entienda su metodología.
 
