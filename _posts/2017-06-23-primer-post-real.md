@@ -19,7 +19,7 @@ Forrester
 Visualicemos con PCA los datos:
 
 <div class="video-container">
-    <iframe src="https://public.tableau.com/views/BicisBA2016/Dashboard2?:showVizHome=no&:embed=true" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://public.tableau.com/views/BicisBA2016/Dashboard2?:showVizHome=no&:embed=true" height="720" width="640" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
