@@ -14,4 +14,4 @@ Para esto se utilizaron datos del 2015 al 2016, que se encuentran en <https://da
 
 Veamos la cantidad de flotas en servicio:
 
-<div class="embed-responsive-c"><iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pmtempone/14.embed"></iframe></iframe></div>
+<div class="embed-responsive-c"><iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pmtempone/14.embed"></iframe></div>
