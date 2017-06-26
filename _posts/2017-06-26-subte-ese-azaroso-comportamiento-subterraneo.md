@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Subte\\:\\ Ese azaroso comportamiento
+title: Subte\:\ Ese azaroso comportamiento
 categories: opendata
 excerpt:
          <h3>Qué dicen los datos del subte en la ciudad de Buenos Aires</h3>
