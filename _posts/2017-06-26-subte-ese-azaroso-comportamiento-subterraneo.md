@@ -20,7 +20,7 @@ Hasta acá parece lógico que la D y la B sean las que más lineas tengan y que 
 
 Entonces escuchás por el altavoz “la linea D se encuentra con demora por la avería de…” y vos tipo:
 
-<iframe width="560" height="420" src="https://www.youtube.com/watch?v=pnDjjtgYtMA"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pnDjjtgYtMA" frameborder="0" allowfullscreen></iframe>
 
 **Flotas con problemas:**
 
