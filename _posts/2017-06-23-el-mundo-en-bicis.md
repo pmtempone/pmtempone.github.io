@@ -12,7 +12,7 @@ excerpt:
 
 En base a los recorridos de las ecobicis de la Ciudad de Bs. As. armé un grafo de las conexiones más frecuentes.
 
-Si bien ya lo había realizado para esta nota de Clarín:
+Si bien ya había realizado una visualización que salió en esta nota de Clarín:
 
 <div class="embed-responsive-c"> <iframe src="//rstudio-pubs-static.s3.amazonaws.com/237786_0a4ba2e701bc4c7b9feec013590c84d6.html?" height="600" width="560" name="Creado por: Pablo Tempone"></iframe></div>
 
