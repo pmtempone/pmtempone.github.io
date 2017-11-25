@@ -81,7 +81,7 @@ Entre los equipos que no tuvieron buenos rendimientos pareciera haber bastante s
 
 Podríamos continuar con este juego de parecidos, la realidad es que esto sirve para ver rápidamente si nuestro objetivo es parecernos al equipo campeón, que tan distintos somos, ¿somos parecidos River Plate o a Sarmiento?
 
-Bonus Track: Marcelo Meli como contratación
+##Bonus Track: Marcelo Meli como contratación
 
 Como bonus de este informe realizaré un análisis muy individual: el objetivo es ver si Racing, que necesitaba un jugador que se desempeñe como volante por derecha terminó incorporando a Marcelo Meli, tiene más parecido con mediocampistas del tipo defensivo o con el "Huevo" Acuña, que es un jugador con mucha llegada ofensiva y aporte en lo defensivo.
 
